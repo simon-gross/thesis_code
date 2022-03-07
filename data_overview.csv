@@ -1,0 +1,12 @@
+﻿Name;Date;Source;Type;Format;Geomtries (if appl.);Resolution
+MS-Big: Aggregated Results (with Geometry);24.08.2021;https://mapswipe.org/en/project.html?projectId=-MhK2rqJYEKpSGMy7nVs;Geographic Vector Data;Geojson;Polygons;~ 160 m
+MS-Big: Results;24.08.2021;https://mapswipe.org/en/project.html?projectId=-MhK2rqJYEKpSGMy7nVs;List;CSV;-;-
+MS-Small: Aggregated Results (with Geometry);08.09.2021;https://mapswipe.org/en/project.html?projectId=-MiR5RA-m87bPmNwsbFR;Geographic Vector Data;Geojson;Polygons;~ 40 m
+MS-Small: Results;08.09.2021;https://mapswipe.org/en/project.html?projectId=-MiR5RA-m87bPmNwsbFR;List;CSV;-;-
+Satellite Picture before MS-Big;Unknown;Not publicly avilabe;Geographic Raster, satellite;Web-Map;-;
+Satellite Picture after MS-Big;15.08.2021;104001006CA11700.tif on https://www.maxar.com/open-data/haiti-earthquake-2021?utm_source=maxar.com-open-data&utm_medium=website ;Geographic Raster, satellite;GeoTIFF;-;~ 35 cm
+Satellite Picture before MS-Small;Unknown;https://haitidata.org/clip/ortho;Geographic Raster, satellite;Web-Map;-;
+Satellite Picture after MS-Small;24.08.2021;https://map.openaerialmap.org/#/-73.74847412109375,18.195434461776465,14/square/0322103132021330/61266ef1b7012200056b5cbb?_k=m6k3g2;Geographic Raster, drone picture;GeoTIFF;-;~ 2 cm
+Copernicus Damage Grading;15.08.2021;https://emergency.copernicus.eu/mapping/ems-product-component/EMSR536_AOI02_GRA_PRODUCT_r1_RTP01/1;Geographic Vector Data;Shapefile;Points;-
+OSM Building Footprints;05.01.2022;https://download.geofabrik.de/central-america/haiti-and-domrep.html;Geographic Vector Data;Shapefile;Polygons;-
+Reference Dataset;;Created by MapSwipe developers and myself;Geographic Vector Data;Geojson;Poylgons;~ 40 m
